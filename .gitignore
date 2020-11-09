@@ -1,0 +1,6 @@
+.Idea/
+vendor/
+*.terraform
+*.tfstate
+*.tfstate.backup
+go.sum
